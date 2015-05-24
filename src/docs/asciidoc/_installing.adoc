@@ -1,0 +1,18 @@
+=== Windows
+
+
+[NOTE.speaker]
+
+
+=== Mac & Linux
+
+Gvm tool
+
+
+[NOTE.speaker]
+Notes on source code
+
+
+=== Usb with Repository
+
+Sample app provided as repository

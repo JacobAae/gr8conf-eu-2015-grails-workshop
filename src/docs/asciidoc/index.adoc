@@ -1,0 +1,45 @@
+= Grails - Beginners Workshop
+Jacob Aae Mikkelsen
+
+== Agenda
+
+* Installing Grails
+* Grails Intro
+* Application Scenario
+* Sample Application
+* Exercises
+
+[NOTE.speaker]
+Please interrupt + questions
+
+=== Jacob Aae Mikkelsen
+
+* Senior Engineer at Lego
+** CIT MA BIS
+** Microservice based architechture
+* Previously 4 years at Gennemtænkt IT
+** Consultant on Groovy and Grails
+* image:twitter.png[Twitter, 40,40 ,role="inline-image"] @JacobAae
+* Blogs http://grydeske.net/news[The Grails Diary]
+
+
+== Installing Grails
+
+include::_installing.adoc[]
+
+== Grails Intro
+
+
+
+== Application Scenario
+
+
+
+== Sample Application
+
+
+== Exercises
+
+
+
+
